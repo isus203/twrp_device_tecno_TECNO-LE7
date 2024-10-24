@@ -7,4 +7,4 @@
 
 add_lunch_combo LE7-user
 add_lunch_combo LE7-userdebug
-add_lunch_combo LE7-eng
+add_lunch_combo omni_LE7-eng
